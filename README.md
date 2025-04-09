@@ -8,7 +8,7 @@ A simple contract deployed on the Base network as part of the Talent Protocol Bu
 
 - **Network**: Base Mainnet
 - **Deployed Address**: 0x1093EB96b6464A4166a220692d804De25c103d80
-- **Deployed By**: winky.base
+- **Deployed By**: winky0505.base.eth
 - **Language**: Solidity
 - **Deployed via**: Remix IDE
 
